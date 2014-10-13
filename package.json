@@ -1,6 +1,6 @@
 {
   "name": "rank-me",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Leaderboards for the ranking of non-unique usernames.",
   "main": "index.js",
   "scripts": {
