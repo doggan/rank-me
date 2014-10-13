@@ -16,6 +16,8 @@ npm install rank-me
 ### Constructor
 
 ```javascript
+var Leaderboard = require('rank-me');
+
 var leaderboard = new Leaderboard('leaderboard_id', [options]);
 ```
 
